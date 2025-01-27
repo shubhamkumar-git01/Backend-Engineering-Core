@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .main{
+            display:grid;
+            grid-template-columns: 2cm 2cm 2cm 2cm 2cm 2cm 2cm;
+            grid-template-rows: 2cm 2cm 2cm 10cm 2cm;
+            gap:10px;
+        }
+        .Logo{
+            grid-column-start: 1;
+            grid-column-end: 1;
+            grid-row-start: 1;
+            grid-row-end: 4;
+            border: solid;
+            background-color: green;
+            text-align: center;
+            align-content: center;
+
+        }
+        .b{
+            grid-column-start: 2;
+            grid-column-end: 8;
+            border: solid;
+            text-align: center;
+            padding: 5%;
+
+        }
+        .c{
+            grid-column-start: 2;
+            grid-column-end: 5;
+            border: solid;
+            text-align: center;
+            padding: 10%;
+            
+            
+
+        }
+        .d{
+            grid-column-start: 2;
+            grid-column-end:3 ;
+            border: solid;
+            text-align: center;
+            padding: 40%;
+
+        }
+        .e{
+            grid-column-start: 3;
+            grid-column-end: 4;
+            border: solid;
+            text-align: center;
+            padding: 40%;
+
+        }
+        .f{
+            grid-column-start: 4;
+            grid-column-end:5 ;
+            border: solid;
+            text-align: center;
+            padding: 40%;
+
+        }
+        .g{
+            grid-column-start: 5;
+            grid-column-end:6 ;
+            border: solid;
+            text-align: center;
+            padding: 40%;
+            
+
+        }
+        .h{
+            grid-column-start: 6;
+            grid-column-end: 7 ;
+            border: solid;
+            text-align: center;
+            padding: 40%;
+
+        }
+        .i{
+            grid-column-start: 7;
+            grid-column-end: 8 ;
+            border: solid;
+            text-align: center;
+            padding: 40%;
+
+        }
+        .Nav{
+            grid-column-start: 1;
+            grid-column-end: 2;
+            grid-row-start: 4;
+            border: solid;
+            text-align: center;
+            align-content: center;
+        }
+        .Content{
+            grid-column: 2/8;
+            border: solid;
+            align-content: center;
+            text-align: center;
+
+        }
+        .foot{
+            border: solid;
+            grid-column: 2/8;
+            text-align: center;
+            align-content: center;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="main">
+        <div class="Logo">Logo</div>
+        <div class="b">2</div>
+        <div class="c">21</div>
+        <div class="d">3</div>
+        <div class="e">4</div>
+        <div class="f">5</div>
+        <div class="g">6</div>
+        <div class="h">7</div>
+        <div class="i">8</div>
+        <div class="Nav">Navigation</div>
+        <div class="Content">Content</div>
+        <div class="foot">Footer</div>
+
+    </div>
+   
+</body>
+</html>
