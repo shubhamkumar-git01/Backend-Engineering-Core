@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>⚙️ Backend Engineering Core</h1>
+  <a href="https://github.com/shubhamkumar-git01">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=43853D&center=true&vCenter=true&width=550&lines=Backend+Engineering+Core;Node.js,+Python,+SQL;Scaling+Architectures" alt="Typing SVG" />
+  </a>
   <p><b>Volume 3 of the Complete Full Stack Engineering Syllabus</b></p>
 
   <!-- Badges -->
