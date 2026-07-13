@@ -66,6 +66,26 @@ Real-world architectures bringing all concepts together.
 1. **Task Management API:** Full CRUD with JWT Auth and MongoDB.
 2. **Real-time Chat Server:** Built with Express, Socket.io, and Redis.
 
+### [09-PHP-MySQL-Architecture](./09-PHP-MySQL-Architecture)
+The traditional web foundation. Understanding how the web worked before Node.js.
+- **PHP Basics:** Strict typing, arrays, and core syntax.
+- **Superglobals:** Managing `$_GET`, `$_POST`, and Sessions safely.
+- **MySQL & PDO:** Connecting to relational databases securely using Prepared Statements.
+- **Raw MVC:** Building a custom Model-View-Controller framework from scratch.
+
+### [10-Python-Django-Fullstack](./10-Python-Django-Fullstack)
+A robust, "batteries-included" polyglot backend approach.
+- **Python Web Basics:** Refresher on Python syntax, OOP, and data structures.
+- **Django MTV:** Understanding Django's Model-Template-View architecture.
+- **Django ORM:** Managing database schemas without writing raw SQL.
+- **Django REST Framework (DRF):** Rapidly building robust JSON APIs.
+
+### [11-System-Design-Architecture](./11-System-Design-Architecture)
+Bridging the gap between junior and senior engineering.
+- **Load Balancing:** Horizontal vs Vertical scaling strategies.
+- **Microservices:** Decoupling massive monoliths into domain-driven services.
+- **Docker:** Containerizing applications to eliminate the "works on my machine" problem.
+
 ---
 
 ## 📚 Learning Resources
